@@ -6,8 +6,8 @@
 >如果您有能力,请私信Alancui4080@outlook.com
 
 > ## WannaRen:
-  > [20200408015A-WannaRen.acvam](./2020-WannaRen/20200408015A-WannaRen.acvam)
+  > [20200408015A-WannaRen.acvam](../2020-WannaRen/20200408015A-WannaRen.acvam)
 
 > ## master:
-  > [20200408015A-WannaRen.acvam](./master/20200408015A-WannaRen.acvam)
+  > [20200408015A-WannaRen.acvam](../master/20200408015A-WannaRen.acvam)
 
