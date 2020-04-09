@@ -1,6 +1,10 @@
 # ACVCsys
 ## 由大众维护的计算机病毒流行预警系统
-
+### 客户端现可下载 
+> 下载后请一定按照指示去做,否则有安装不成功的风险!
+> [下载(不包含Python)](./client/acvc_install_nopy.exe) 
+> [下载(包含Python)](./client/acvc_install_py37.exe)
+> [下载卸载器](./client/Unistall.bat)
 
 
 ## [BREAKING ALERT](./breaking0.acvam)
