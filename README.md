@@ -8,7 +8,7 @@
 > [下载0.1.7版本卸载器(使用.py文件)](./Client/Unistall.bat)  <br />
 > [下载0.2.2-SEP版本(不附带自启动安装器)](./Client/v0.2.2/sep/acvc_installer.exe)  <br />
 > [下载0.2.2-NCD版本(不附带自启动安装器)](./Client/v0.2.2/ncaf/source.zip)  <br />
-> [下载0.2.2-NCAF版本(不附带自启动安装器)](./Client/v0.2.2/ncd/main_acvc.py)  <br />  
+> [下载0.2.2-NCAF版本(不附带自启动安装器)](./Client/v0.2.2/ncd/main_acvc.py)  <br />
 > [下载0.2.2-ODF版本(不附带自启动安装器)](./Client/v0.2.2/odf/source.zip)
 
 
