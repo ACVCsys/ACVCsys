@@ -1,0 +1,16 @@
+ACVA Alan Computer Virus Alert
+时间:UTC2020/04/10/06
+可感染系统:null
+影响等级:最低
+危害等级:最低
+简要描述:
+ WannaRen病毒作者已向火绒安全部门提交解密密钥,该病毒的传播和下发已被停止.
+}
+ACVC建议:
+ ACVC已经降低威胁等级至最低,您可以回归正常设置,ACVC将在108小时内继续跟踪,如无其他信息,108小时后本系列将被存入存档,breaking将被降下
+技术信息:
+    病毒IOC特征:
+        1de73f49db23cf5cc6e06f47767f7fda
+        46a9f6e33810ad41615b40c26350eed8
+        235cca78c8765fcb5cf70a77b1ae9d02
+    比特币账户:1NXTgfGprVktuokv3ZLhGCPCjcKjXbswAM
